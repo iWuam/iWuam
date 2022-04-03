@@ -13,8 +13,8 @@
 </h3>
 
 <div align="center">
-    <a href="https://discord.com/users/300869558300966914">
-        <img src="https://lanyard-profile-readme.vercel.app/api/300869558300966914" align="center" height="205">
+    <a href="https://discord.com/users/809256621413761034">
+        <img src="https://lanyard.cnrad.dev/api/809256621413761034" align="center" height="205">
     </a>
 </div>
 
